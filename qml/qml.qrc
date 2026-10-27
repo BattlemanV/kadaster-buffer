@@ -1,0 +1,15 @@
+﻿<RCC>
+    <qresource prefix="/qml">
+        <file>Main.qml</file>
+        <file>components/DarkTextField.qml</file>
+        <file>components/EditContextMenu.qml</file>
+        <file>components/GeoMath.js</file>
+        <file>components/Cadastral.js</file>
+        <file>components/Reports.js</file>
+        <file>components/LogConsole.qml</file>
+        <file>components/LegendSwatch.qml</file>
+        <file>components/NumericField.qml</file>
+        <file>components/Theme.qml</file>
+    </qresource>
+</RCC>
+

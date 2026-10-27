@@ -1,0 +1,19 @@
+# Служебные каталоги сборки
+/build/
+/build-release/
+/dist/
+/installer/output/
+
+# Локальные бинарные активы (DLL OpenSSL — не в git)
+/openssl/
+/runtime/
+
+# Служебное
+*.user
+*.bak
+
+# Локальные резервные копии и логи
+/_backup_*/
+err.txt
+out.txt
+encoding_check.txt

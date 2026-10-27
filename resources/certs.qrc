@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/certs">
+        <file alias="russian_trusted_root_ca.pem">certs/russian_trusted_root_ca.pem</file>
+    </qresource>
+</RCC>
